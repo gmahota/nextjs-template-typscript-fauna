@@ -33,4 +33,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Special Tank's
-(Rockectseat)[https://www.youtube.com/watch?v=1nVUfZg2dSA] for this special template
+[https://www.youtube.com/watch?v=1nVUfZg2dSA](Rockectseat) for this special template
